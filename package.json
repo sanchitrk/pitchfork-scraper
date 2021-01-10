@@ -35,7 +35,7 @@
     "kyt-runtime": "1.0.0-alpha.ec882428",
     "minimist": "1.2.0",
     "morgan": "1.9.1",
-    "node-fetch": "2.3.0",
+    "node-fetch": "2.6.1",
     "react": "16.8.2",
     "react-apollo": "2.4.1",
     "react-dom": "16.8.2",
